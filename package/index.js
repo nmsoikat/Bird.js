@@ -129,12 +129,3 @@ class Bird {
 }
 
 module.exports = Bird;
-
-/**
- * TODO
- * response as stream
- * static public
- * route middleware
- * error handler
- * cors
- */

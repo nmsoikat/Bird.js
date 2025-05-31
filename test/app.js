@@ -1,4 +1,4 @@
-const bird = require('../package');
+const bird = require('@nmsoikat/demo-express');
 
 const app = new bird();
 

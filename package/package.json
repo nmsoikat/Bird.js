@@ -1,5 +1,5 @@
 {
-  "name": "demo-express",
+  "name": "@nmsoikat/demo-express",
   "version": "1.0.0",
   "description": "A node.js framework for practice",
   "main": "index.js",
