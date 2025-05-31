@@ -1,11 +1,22 @@
 {
   "name": "@nmsoikat/demo-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node.js framework for practice",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nur Mohammad Soikat",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmsoikat/bird.js.git"
+  },
+  "keywords": [
+    "@nmsoikat/demo-express"
+  ],
+  "bugs": {
+    "url": "https://github.com/nmsoikat/bird.js/issues"
+  },
+  "homepage": "https://github.com/nmsoikat/bird.js#readme"
 }
