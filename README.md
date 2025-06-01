@@ -1,2 +1,2 @@
-This is a Node.js Framework. Not ready for production
+A Node.js Framework. Only use for practice
 `npm i @nmsoikat/demo-express`
